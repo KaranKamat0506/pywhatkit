@@ -6,4 +6,4 @@ kit.sendwhatmsg("+9177********","This is a message from a python script using py
 #1st argument:Receivers phone number with country code
 #2nd Argument:Message 
 #3rd argument:Time-hour
-#4th argument:Time-ming
+#4th argument:Time-min
