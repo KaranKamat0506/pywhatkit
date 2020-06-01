@@ -7,3 +7,10 @@ kit.sendwhatmsg("+9177********","This is a message from a python script using py
 #2nd Argument:Message 
 #3rd argument:Time-hour
 #4th argument:Time-min
+
+
+
+
+
+
+
